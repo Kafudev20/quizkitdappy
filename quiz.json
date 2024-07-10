@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of esports with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Which game features Dust II?",
+      "answers": ["CS:GO", "Dota 2", "LoL"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Which game has Summoner's Rift?",
+      "answers": ["LoL", "Overwatch", "CS:GO"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What is Faker known for?",
+      "answers": ["LoL", "Dota 2", "CS:GO"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which game has The International?",
+      "answers": ["Dota 2", "LoL", "Overwatch"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which game has deagle?",
+      "answers": ["CS:GO", "LoL", "Dota 2"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Ninja known for?",
+      "answers": ["Fortnite", "LoL", "Dota 2"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which game has AWP?",
+      "answers": ["CS:GO", "Dota 2", "LoL"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which game features Reinhardt?",
+      "answers": ["Overwatch", "LoL", "CS:GO"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which game has Dragonblade?",
+      "answers": ["Overwatch", "Dota 2", "LoL"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which game has Radiant?",
+      "answers": ["Valorant", "LoL", "Dota 2"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which game has Nuke?",
+      "answers": ["CS:GO", "LoL", "Overwatch"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which game has Rekkles?",
+      "answers": ["LoL", "Dota 2", "CS:GO"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which game has Aim Lab?",
+      "answers": ["Valorant", "LoL", "Dota 2"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which game has Dustbowl?",
+      "answers": ["TF2", "Overwatch", "CS:GO"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which game has Bounty Runes?",
+      "answers": ["Dota 2", "LoL", "CS:GO"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which game has Mirage?",
+      "answers": ["CS:GO", "Overwatch", "Dota 2"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which game has MidOne?",
+      "answers": ["Dota 2", "LoL", "CS:GO"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which game has Bind?",
+      "answers": ["Valorant", "LoL", "Dota 2"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which game has MOBA?",
+      "answers": ["LoL", "CS:GO", "Overwatch"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which game has Buyback?",
+      "answers": ["Dota 2", "LoL", "CS:GO"],
       "correctAnswerIndex": 0
     }
   ]
